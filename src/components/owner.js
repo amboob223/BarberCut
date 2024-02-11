@@ -90,7 +90,26 @@ function Owner() {
 }
 
 
+
+
+
+export default Owner;
 //we need the payment button and a delete buttonto have a moual that ask if they sure they want to delet and set up strip tonight 
 //and fix the way the total adds up 
 
-export default Owner;
+  //owner
+//we need the payment button and a delete buttonto have a moual that ask if they sure they want to delet and set up strip tonight 
+//and fix the way the total adds up
+// and make the table appear after the date is imputed
+// to access the onwer side you need a code because the owner can delete a booking
+
+
+          //on the form side we need to add that when the toatl is cofimed and clicked they are sent to a payment page on stripe
+
+      //on app we need a nav bar that lets the user toggle betewen being an owner an seeing data from tyhe base vs being user and only seeing the form //
+
+      // when you come one the app yuo are assumed to be a user so only owners sign in for the onwers when they sign un they can see 
+    // the total for the day and the contact of the peopole;
+    // they can trfack eafrnings from stripe
+
+    //we got to send them an email with there invoice details and thats on the form side 
