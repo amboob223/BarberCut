@@ -89,4 +89,8 @@ function Owner() {
   );
 }
 
+
+//we need the payment button and a delete buttonto have a moual that ask if they sure they want to delet and set up strip tonight 
+//and fix the way the total adds up 
+
 export default Owner;
