@@ -15,6 +15,7 @@ function App() {
 
           {/* Use Link for navigation to Owner component */}
           <Link to="/owner">Owner</Link>
+          
 
           {/* Use Routes to wrap Route components */}
           <Routes>
